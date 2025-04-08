@@ -17,3 +17,4 @@ This is a simple HTML portfolio project created using basic HTML, CSS, and JavaS
 
 1. Clone the repo
 2. Open `index.html` in your browser
+   git checkout -b update-readme
